@@ -15,7 +15,7 @@ CFG_ENABLE_URL_DOWNLOAD = False
 CFG_ENABLE_VIDEO_PREDICTION = True
 if CFG_ENABLE_URL_DOWNLOAD:
     # Configure this if you set cfg_enable_url_download to True
-    url = ""
+    url = "https://github.com/NTECAI/AIDrugPOCv5/raw/main/models/eDrug.pt"
 # End of Configurations
 
 
