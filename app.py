@@ -15,7 +15,7 @@ CFG_ENABLE_URL_DOWNLOAD = False
 CFG_ENABLE_VIDEO_PREDICTION = True
 if CFG_ENABLE_URL_DOWNLOAD:
     # Configure this if you set cfg_enable_url_download to True
-    url = "https://github.com/NTECAI/AIDrugPOCv4/blob/main/weights/AI-POC-eDrug-Formulary-v0.0.1.pt"
+    url = ""
 # End of Configurations
 
 
