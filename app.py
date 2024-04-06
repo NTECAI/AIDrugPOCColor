@@ -152,7 +152,7 @@ def main():
                                         'cpu', 'cuda'], disabled=True, index=0)
     # -- End of Sidebar
 
-    st.header('📦 YOLOv5 Streamlit Deployment Example')
+    st.header('📦 YOLOv5 Streamlit Deployment Example - Color')
     st.sidebar.markdown(
         "https://github.com/thepbordin/Obstacle-Detection-for-Blind-people-Deployment")
 
