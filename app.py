@@ -10,12 +10,12 @@ from video_predict import runVideo
 
 
 # Configurations
-CFG_MODEL_PATH = "models/eDrug.pt"
+CFG_MODEL_PATH = "models/AI-POC-eDrug-Formulary-color.pt"
 CFG_ENABLE_URL_DOWNLOAD = True
 CFG_ENABLE_VIDEO_PREDICTION = True
 if CFG_ENABLE_URL_DOWNLOAD:
     # Configure this if you set cfg_enable_url_download to True
-    url = "https://github.com/NTECAI/AIDrugPOCv5/raw/main/models/eDrug.pt"
+    url = "https://github.com/NTECAI/AIDrugPOCv5/raw/main/models/AI-POC-eDrug-Formulary-color.pt"
 # End of Configurations
 
 
